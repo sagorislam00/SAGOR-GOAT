@@ -8,7 +8,7 @@ const { getPrefix } = global.utils;
 
 const { commands, aliases } = global.GoatBot;
 
-const doNotDelete = "[ 𝐌𝐈𝐌-𝐁𝐎𝐓___//𝟎𝟎𝟕 ]";
+const doNotDelete = "[ 𝐒𝐀𝐆𝐎𝐑-𝐁𝐎𝐓___//𝟎𝟎𝟕 ]";
 
  
 
@@ -72,7 +72,7 @@ module.exports = {
 
  
 
-      msg += `╔═════•| 💛 |•═════╗\n★★𝐌𝐈𝐌-𝐁𝐎𝐓___//𝟎𝟎𝟕★★\n╚═════•| 💛 |•═════╝`;
+      msg += `╔═════•| 💛 |•═════╗\n★★𝐒𝐀𝐆𝐎𝐑-𝐁𝐎𝐓___//𝟎𝟎𝟕★★\n╚═════•| 💛 |•═════╝`;
 
  
 
@@ -126,7 +126,7 @@ module.exports = {
 
       msg += `💌 𝐁𝐎𝐓-𝐀𝐃𝐌𝐈𝐍-𝐂𝐎𝐍𝐓𝐄𝐊 💌\n\n`;
 
-      msg += `🟡𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊-𝐋𝐈𝐍𝐊🟡\n\nhttps://m.me/MBC.K1NG.007\n\n⚪𝐌𝐄𝐒𝐒𝐄𝐍𝐆𝐀𝐑𝐄-𝐋𝐈𝐍𝐊⚪\n\nm.me/100001381266797\n\n🔴𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏🔴\n\nwa.me/+8801782721761\n\n▬▬▬▬▬▬▬▬▬▬▬▬`;
+      msg += `🟡𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊-𝐋𝐈𝐍𝐊🟡\n\nhttps://m.me/jahidul.islam.sagor.24\n\n⚪𝐌𝐄𝐒𝐒𝐄𝐍𝐆𝐀𝐑𝐄-𝐋𝐈𝐍𝐊⚪\n\nm.me/100048281103451\n\n🔴𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏🔴\n\nwa.me/+8801314499079\n\n▬▬▬▬▬▬▬▬▬▬▬▬`;
 
  
 
@@ -136,19 +136,15 @@ module.exports = {
 
  
 
-"https://i.imgur.com/EDxzdSp.jpeg",
+"https://i.imgur.com/dLR71D3.jpeg",
 
-"https://i.imgur.com/1qCQIIj.jpeg', ",
+"",
 
-"https://i.imgur.com/EDxzdSp.jpeg",
+"",
 
-"https://i.imgur.com/1qCQIIj.jpeg",
+"",
 
-"https://i.imgur.com/EDxzdSp.jpeg",
-
-"https://i.imgur.com/1qCQIIj.jpeg",
-
-"https://i.imgur.com/EDxzdSp.jpeg"
+""
 
 ];
 
