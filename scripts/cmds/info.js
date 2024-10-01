@@ -15,12 +15,12 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const botName = "𝐁𝟒𝐃𝟗𝐋-𝐁𝟗𝐓___//𝟎𝟎𝟕";
+		const botName = "𝐒𝐀𝐆𝐎𝐓___//𝟎𝟎𝟕";
 		const botPrefix = "/";
-		const authorName = "𝚁𝙾𝙼𝙸𝙼 𝙰𝙷𝙼𝙴𝙳";
-		const ownAge = "27+";
+		const authorName = "𝚂𝙰𝙶𝙾𝚁 𝙸𝚂𝙻𝙰𝙼";
+		const ownAge = "𝟷7+";
 		const teamName = "Muslim Cyber Security";
-		const authorFB = "https://m.me/MBC.K1NG.007";
+		const authorFB = "https://m.me/jahidul.islam.sagor.24";
 		const authorInsta = "++";
 		const tikTok = "++";
 		const st = "ACTTVE";
@@ -37,7 +37,7 @@ module.exports = {
 		const uptimeString = `${days} days ${hours} hours ${minutes} minutes ${seconds} seconds`;
 
 		message.reply({
-			body: `♕︎➪Badol-bot-information 𖤍🂱
+			body: `♕︎➪𝖲𝖠𝖦𝖮𝖱-bot-information 𖤍🂱
 \☢ ︎︎Bot-Name ☞︎︎︎ ${botName} 🂱
 \☢︎︎ Bot-Prefix ☞︎︎︎ ${botPrefix} 𖤍
 \☢ ︎︎Bot-Owner-Name ☞︎︎︎ ${authorName} ⚠︎
